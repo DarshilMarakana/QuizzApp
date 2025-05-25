@@ -1,0 +1,21 @@
+[
+    {
+      "question": "What is the capital of Germany?",
+      "options": ["Berlin", "Vienna", "Madrid", "Rome"],
+      "answer": "Berlin",
+      "explanation": "Berlin has been the capital of Germany since its reunification in 1990."
+    },
+    {
+      "question": "React is a ___ library.",
+      "options": ["UI", "Database", "Backend", "Networking"],
+      "answer": "UI",
+      "explanation": "React is specifically designed to build user interfaces, mainly for web applications."
+    },
+    {
+      "question": "JavaScript runs in which environment?",
+      "options": ["Browser", "Server", "Both", "None"],
+      "answer": "Both",
+      "explanation": "JavaScript can run in the browser (like Chrome) and on servers using Node.js."
+    }
+  ]
+  
